@@ -7,3 +7,4 @@ else:
     print(
         f'O maior valor informado foi{valor1}' 
         f'o menor foi {valor2}')
+        
